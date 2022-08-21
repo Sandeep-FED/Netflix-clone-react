@@ -6,7 +6,7 @@ function navbar() {
     <div className="navbar">
       <img
         className="logo"
-        src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Netflix_2015_logo.svg/1920px-Netflix_2015_logo.svg.png"
+        src="https://logos-download.com/wp-content/uploads/2016/03/Netflix_Logo_2014.svg"
         alt="Netflix Logo"
       />
       <img
